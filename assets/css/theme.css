@@ -3576,6 +3576,18 @@ fieldset:disabled .btn {
   border-color: #c18401;
 }
 
+.btn-whatsapp {
+  color: #FFFEFE;
+  background-color: #25d366;
+  border-color: #128c7e;
+}
+
+.btn-whatsapp:hover {
+  color: #FFFEFE;
+  background-color: #075e54;
+  border-color: #c18401;
+}
+
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #FFFEFE;
   background-color: #cd8c01;
